@@ -114,23 +114,23 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### User Home Page
 
-<img width="431" alt="UserHomePage" src="https://user-images.githubusercontent.com/39716292/64747584-a3522f80-d4cc-11e9-8207-ec0f0ae087cd.png">
+<img width="431" alt="UserHomePage" src="https://github.com/andreeahanson/Sophia-Native/blob/master/assets/readmeImages/4.png">
 
 ### My Profile
 
-<img width="426" alt="ProfilePage" src="https://user-images.githubusercontent.com/39716292/64747591-a64d2000-d4cc-11e9-9096-4683e8e3b578.png">
+<img width="426" alt="ProfilePage" src="https://github.com/andreeahanson/Sophia-Native/blob/master/assets/readmeImages/10.png">
 
 ### My Lists - Client
 
 <img width="422" alt="ClientLists" src="https://user-images.githubusercontent.com/39716292/64756037-92181b80-d4ea-11e9-86b9-4b5543a3e643.png">
 
-### My Lists - Caretaker
+### Add a List for Caretaker
 
-<img width="428" alt="CaretakerLists" src="https://user-images.githubusercontent.com/39716292/64760808-d958d900-d4f7-11e9-8c9a-90fe01f15ba3.png">
+<img width="428" alt="CaretakerLists" src="https://github.com/andreeahanson/Sophia-Native/blob/master/assets/readmeImages/7.png">
 
 ### My Tasks - Client
 
-<img width="420" alt="ClientTasks" src="https://user-images.githubusercontent.com/39716292/64769969-86881d00-d509-11e9-8c93-d3f07aeccf46.png">
+<img width="420" alt="ClientTasks" src="https://github.com/andreeahanson/Sophia-Native/blob/master/assets/readmeImages/9.png">
 
 ### My Tasks - Caretaker
 
